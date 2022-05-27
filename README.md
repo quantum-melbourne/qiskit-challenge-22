@@ -1,4 +1,4 @@
-# ibm-quantum-challenge-fall-2021
+# Qiskit Challenge Melbourne 2022
 
 [![License](https://img.shields.io/github/license/quantum-melbourne/qiskit-challenge-22.svg)](https://opensource.org/licenses/Apache-2.0)<!--- long-description-skip-begin -->![Last updated](https://img.shields.io/github/last-commit/quantum-melbourne/qiskit-challenge-22/main?label=Last%20updated&style=flat)
 
