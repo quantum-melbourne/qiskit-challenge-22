@@ -12,7 +12,9 @@
 --------------------------------
 ## Introduction
 
+What fields can we expect to see impacts from quantum computation in the near future? The Qiskit Challenge Melbourne 2022 aims to answer this question by showcasing some of quantum computing’s different industry applications, featuring Qiskit’s application modules: Finance, Nature, Machine Learning, and Optimization.
 
+You have until _July 10?_ to learn and work on real-life problems in each of the four promising areas of application for quantum computers. 
 
 <br>
 
