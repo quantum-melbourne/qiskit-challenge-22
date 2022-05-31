@@ -16,17 +16,14 @@ What fields can we expect to see impacts from quantum computation in the near fu
 
 You have until _July 10?_ to learn and work on real-life problems in each of the four promising areas of application for quantum computers. 
 
-<br>
-
 ## YouTube Videos
 For background, you can watch YouTube videos for the four Qiskit application modules.
 
 - [Qiskit Optimization & Machine Learning with Atsushi Matsuo & Anton Dekusar](https://youtu.be/claoY57eVIc)
 - [Qiskit Nature & Finance with Max Rossmannek & Julien Gacon](https://youtu.be/UtMVoGXlz04)
 
-<br>
-# [Event Code of Conduct](https://github.com/quantum-melbourne/qiskit-challenge-22/blob/main/code%20of%20conduct-for-participants.md)
+## [Event Code of Conduct](https://github.com/quantum-melbourne/qiskit-challenge-22/blob/main/code%20of%20conduct-for-participants.md)
 
-# [Preliminary Content](https://github.com/quantum-melbourne/qiskit-challenge-22/blob/main/preliminary_content.md)
+## [Preliminary Content](https://github.com/quantum-melbourne/qiskit-challenge-22/blob/main/preliminary_content.md)
 
-# [FAQ]([https://github.com/quantum-melbourne/qiskit-challenge-22/wiki](https://github.com/quantum-melbourne/qiskit-challenge-22/blob/main/faq.md))
+## [FAQ]([https://github.com/quantum-melbourne/qiskit-challenge-22/wiki](https://github.com/quantum-melbourne/qiskit-challenge-22/blob/main/faq.md))
