@@ -26,4 +26,4 @@ For background, you can watch YouTube videos for the four Qiskit application mod
 
 ## [Preliminary Content](https://github.com/quantum-melbourne/qiskit-challenge-22/blob/main/preliminary_content.md)
 
-## [FAQ]([https://github.com/quantum-melbourne/qiskit-challenge-22/wiki](https://github.com/quantum-melbourne/qiskit-challenge-22/blob/main/faq.md))
+## [FAQ](https://github.com/quantum-melbourne/qiskit-challenge-22/blob/main/faq.md)
