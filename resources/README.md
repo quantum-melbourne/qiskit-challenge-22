@@ -12,5 +12,3 @@ This repository hosts updated notebooks for the Qiskit application modules demo 
 - Part 2: [Qiskit Nature & Finance Demo Session with Max Rossmannek & Julien Gacon](https://youtu.be/UtMVoGXlz04) 
 
 [![Qiskit Nature & Finance Demo Session with Max Rossmannek & Julien Gacon](https://img.youtube.com/vi/UtMVoGXlz04/0.jpg)](https://www.youtube.com/watch?v=UtMVoGXlz04)
-
-You can watch the replay [here](https://www.youtube.com/playlist?list=PLOFEBzvs-VvrKOTLs5ESjAmg9Lz8G1PON) if you missed the livestream. 
