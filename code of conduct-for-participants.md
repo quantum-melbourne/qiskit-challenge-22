@@ -1,14 +1,12 @@
 # Code of Conduct for Participation
 
-The IBM Quantum Challenge Fall 2021 and the Qiskit Community team are committed to maintaining the highest level of enjoyment, accessibility, and inclusivity by maintaining an environment of respect, empathy, and compassion for others. In order to support that, we ask that each participant review the Qiskit Community Code of Conduct before the event, and be familiar with our community standards to join us in maintaining a safe and welcoming event for all.
+The Qiskit Melbourne Hackahthon team are committed to maintaining the highest level of enjoyment, accessibility, and inclusivity by maintaining an environment of respect, empathy, and compassion for others. In order to support that, we ask that each participant review the Qiskit Community Code of Conduct before the event, and be familiar with our community standards to join us in maintaining a safe and welcoming event for all.
 
 We have zero tolerance for any type of harassment, and welcome each and every attendee as you support these values and make this hackathon and the Qiskit Community a friendly and open space for everyone.
 
 [Click here to Review Qiskit Community Code of Conduct](https://github.com/Qiskit/qiskit/blob/master/CODE_OF_CONDUCT.md#our-pledge)
 
-*As this event is a challenge, sharing solutions/answers is strictly forbidden and can lead to potential disqualification from the event. We encourage you to ask questions in the dedicated Slack channel [#challenge-fall-2021](https://ibm.co/IQC21F_Slack) if you need additional guidance.*
-
-## IBM Quantum Challenge Fall 2021 Event Values
+## Qiskit Melbourne Hackahthon Event Values
 
 - **Be Engaged:** Connect with each other & have FUN!
 - **Be Inclusive:** Use shared language, be empathetic, & be aware of cultures and backgrounds
